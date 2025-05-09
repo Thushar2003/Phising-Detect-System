@@ -1,1 +1,6 @@
 # Phising-Detect-System
+The advent of the internet has revolutionized the way we live, work, and communicate. With its pervasive reach and seamless connectivity, the internet has become an indispensable aspect of modern life. However, amidst its myriad benefits, the internet also harbours various threats and vulnerabilities, chief among them being the rise of malicious activities like phishing.
+
+The limitations of existing phishing detection methods underscore the need for innovative approaches to combat this pervasive threat. One such approach that has gained traction in recent years is the application of machine learning techniques. Machine learning, a branch of artificial intelligence, offers the promise of identifying patterns and anomalies in vast datasets, making it well-suited for detecting subtle indicators of phishing attacks.
+
+Machine learning algorithms can analyze large volumes of data to identify common characteristics of phishing websites, such as deceptive URLs, suspicious domain registrations, and anomalous user behavior. By learning from past examples of phishing attempts, these algorithms can continually refine their detection capabilities, adapting to emerging threats in real-time.
